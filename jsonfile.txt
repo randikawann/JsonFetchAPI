@@ -1,0 +1,22 @@
+Json file link : https://api.myjson.com/bins/1009bg
+
+[
+{
+"name" : "Randika",
+"password" : "123",
+"contact" : "111",
+"country" : "Sri Lanka"
+},
+{
+"name" : "Kasun",
+"password" : "1234",
+"contact" : "222",
+"country" : "Sri"
+},
+{
+"name" : "Wann",
+"password" : "12345",
+"contact" : "333",
+"country" : "Lanka"
+}
+]
